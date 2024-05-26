@@ -1,0 +1,4 @@
+C:/Users/b_kuz/source/repos/BorisK7/OOPs/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/b_kuz/source/repos/BorisK7/OOPs/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/b_kuz/source/repos/BorisK7/OOPs/out/build/x64-Debug/prj.lab/CMakeFiles/edit_cache.dir
+C:/Users/b_kuz/source/repos/BorisK7/OOPs/out/build/x64-Debug/prj.lab/CMakeFiles/rebuild_cache.dir
